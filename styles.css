@@ -18,6 +18,13 @@
   font-size: 5rem;
 }
 
+.container .primary-buttons {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
 .container .btn {
   font-size: 1.5rem;
   padding: 0.5rem;
